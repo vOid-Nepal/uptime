@@ -1,6 +1,7 @@
 # Change these first
-owner: voOd-Nepal # Your GitHub organization or username, where this repository lives
+owner: vOid-Nepal # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
+user-agent: vOid-Nepal
 
 sites:
   - name: Google
