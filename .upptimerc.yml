@@ -1,5 +1,5 @@
 # Change these first
-owner: void-nepal # Your GitHub organization or username, where this repository lives
+owner: voOd-Nepal # Your GitHub organization or username, where this repository lives
 repo: uptime # The name of this repository
 
 sites:
@@ -31,6 +31,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
